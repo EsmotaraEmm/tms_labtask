@@ -1,5 +1,4 @@
 #first commit
-# Task✔️Master - MERN Stack Application
 
 A productivity application built with the MERN stack (MongoDB, Express, React/Next.js, Node.js) with TypeScript support.
 
